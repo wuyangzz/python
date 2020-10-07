@@ -8,430 +8,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="526daab5-0e9e-45a5-8f07-49f0979672df" name="Default Changelist" comment="添加vfm布局">
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/documents/01-初识PyQt5-01-PyQt5简介.pptx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/documents/PyQt5视频课程源代码下载.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/documents/PyQt5视频课程源代码下载.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/SignalSlot/AutoSignalSlot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/SignalSlot/CustomSignal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/SignalSlot/DateDialog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/SignalSlot/LambdaSlotArg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/SignalSlot/MultiSignal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/SignalSlot/MultiWindow1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/SignalSlot/MultiWindow2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/SignalSlot/NNSignal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/SignalSlot/NewDateDialog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/SignalSlot/OverrideSlot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/SignalSlot/PartialSlotArg.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/SignalSlot/SignalSlotDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/SignalSlot/ThreadUpdateUI.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/SignalSlot/WinSignal.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/basic/First.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/basic/开发第一个基于PyQt5的桌面应用.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/basic/搭建PyQt5开发环境.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/calendar_time/DateTimeEdit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/calendar_time/MyCalendar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/containers/DockWidget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/containers/MultiWindows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/containers/QStackedWidget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/containers/ScrollBar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/containers/TabWidget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/CenterForm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/FirstMainWin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/IconForm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/QCheckBoxDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/QComboBoxDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/QLabelBuddy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/QLabelDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/QLineEditDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/QLineEditEchoMode.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/QLineEditMask.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/QLineEditValidator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/QPushButtonDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/QRadioButtonDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/QSliderDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/QSpinBoxDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/QTextEditDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/QuitApplication.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/ScreenGeometry.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/Tooltip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Air Elemental.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Archer.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Banshee.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Basilisk.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Djinni.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Dragon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Earth Elemental.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Fire Elemental.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Game Board.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Goblin.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Golem.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Knight.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Logo.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Manticore.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Phoenix.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Power Point (Dark).ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Power Point (Light).ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Shapeshifter.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Sorceress.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Troll.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Unicorn.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Valkyrie.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Water Elemental.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/Wizard.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/ajax-loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/close.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/doc.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/printer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/python.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/python.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/save.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/images/win.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/主窗口类型.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/屏幕坐标系.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinAbsoluteLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinAbsoluteLayout.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinBuddy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinBuddy.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinContainerLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinContainerLayout.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinFormLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinFormLayout.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinGridLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinGridLayout.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinHorizontalLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinHorizontalLayout.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinMaxMinSize.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinMenuToolbar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinMenuToolbar.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinSignalSlot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinSignalSlot.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinSizePolicy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinSizePolicy.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinSpacerLine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinSpacerLine.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinTabOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinTabOrder.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinVHLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinVHLayout.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinVerticalLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/MainWinVerticalLayout.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinAbsoluteLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinBuddy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinContainerLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinFormLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinGridLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinHorizontalLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinMenuToolbar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinSignalSlot.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinSizePolicy.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinSpacerLine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinTabOrder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinVHLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/RunMainWinVerticalLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/demo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/demo.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/在Qt Designer中设置信号与槽.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/将.ui文件转换为.py文件.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/designer/尺寸策略.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/dialogs/QColorDialog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/dialogs/QDialogDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/dialogs/QFileDialogDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/dialogs/QFontDialog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/dialogs/QInputDialogDemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/dialogs/QMessageBox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/drapclip/ClipBoard.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/drapclip/DrapDrop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/drapclip/images/book.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/drapclip/images/book1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/drawing/DrawAll.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/drawing/DrawMultiLine.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/drawing/DrawPoints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/drawing/DrawText.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/drawing/FillRect.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/drawing/images/book.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/drawing/images/book1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/ext/DataGrid.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/ext/DataGrid1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/ext/Graph.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/ext/MyDB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/ext/db/database.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/ext/pyinstaller.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/ext/pyqtgraph_pyqt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/ext/pyqtgraph_pyqt.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/layout/AbsoluteLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/layout/Calc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/layout/Calc.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/layout/FormLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/layout/GridForm.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/layout/HBoxLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/layout/HBoxLayoutAlign.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/layout/RightBottomButton.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/layout/Splitter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/layout/Stretch.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/layout/Stretch1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/layout/VBoxLayout.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/Menu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/StatusBar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/Toolbar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Air Elemental.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Archer.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Banshee.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Basilisk.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Djinni.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Dragon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Earth Elemental.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Fire Elemental.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Game Board.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Goblin.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Golem.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Knight.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Logo.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Manticore.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Phoenix.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Power Point (Dark).ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Power Point (Light).ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Shapeshifter.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Sorceress.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Troll.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Unicorn.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Valkyrie.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Water Elemental.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/Wizard.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/ajax-loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/close.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/doc.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/new.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/printer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/python.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/python.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/save.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/screen.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/menu_toolbar_statusbar/images/win.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/multithread/AutoCloseWindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/multithread/Counter.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/multithread/ShowTime.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/printer/PrintDialog.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/printer/PrintSupport.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/project/CallWeatherWin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/project/WeatherWin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/project/WeatherWin.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/project/getWeatherInfo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/BasicTreeWidget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/CellFontAndColor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/CellImageSize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/CellImageText.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/CellSize.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/CellTextAlignment.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/ColumnSort.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/DataLocation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/ListView.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/ListWidget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/ModifyTree.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/PlaceControlInCell.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/Span.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/TableView.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/TableWidget.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/TableWidgetContextMenu.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/TreeEvent.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/TreeView.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/IOS.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/bao0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/bao1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/bao10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/bao11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/bao12.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/bao13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/bao14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/bao2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/bao3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/bao4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/bao5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/bao6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/bao7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/bao8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/bao9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/cartoon1.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/flower.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/hammer.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/music.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/table_tree/images/root.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/web/InnerHTML.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/web/LocalHTML.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/web/MySharedObject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/web/PyFactorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/web/PyQtCallJS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/web/WebEngineView.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/web/f.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/web/factorial.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/web/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/web/qwebchannel.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/web/test.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/web/tt.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/AbnormityWindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/AnimWindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/AnimationWindows.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/Background.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/Background1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/Background2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/BasicQSS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/CommonHelper.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/DarkStyleSheet.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/Drawing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/LabelButtonBackground.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/LoadQSS.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/MoveWindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/OpacityWindow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/.travis.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/COPYING" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/MANIFEST.in" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/PKGBUILD" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/example/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/example/example_pyqt.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/example/example_pyqt5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/example/example_pyqt5.spec" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/example/example_pyside.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/compile_ui.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/example.ui" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/example_pyqt5_ui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/example_pyqt_ui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/example_pyside_ui.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/makeppa.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/compile_qrc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/pyqt5_style_rc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/pyqt_style_rc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/pyside_style_rc.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/Hmovetoolbar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/Hsepartoolbar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/Vmovetoolbar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/Vsepartoolbar.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/branch_closed-on.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/branch_closed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/branch_open-on.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/branch_open.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_checked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_checked_disabled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_checked_focus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_indeterminate.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_indeterminate_disabled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_indeterminate_focus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_unchecked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_unchecked_disabled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/checkbox_unchecked_focus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/close-hover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/close-pressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/close.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/down_arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/down_arrow_disabled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/left_arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/left_arrow_disabled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_checked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_checked_disabled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_checked_focus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_unchecked.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_unchecked_disabled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/radio_unchecked_focus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/right_arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/right_arrow_disabled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/sizegrip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/stylesheet-branch-end.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/stylesheet-branch-more.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/stylesheet-vline.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/transparent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/undock.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/up_arrow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/rc/up_arrow_disabled.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/style.qrc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/qdarkstyle/style.qss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/screenshots/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/screenshots/QDarkStyle example 1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/screenshots/QDarkStyle example 2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/setup.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/stdeb.cfg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_checked.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_checked_disabled.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_checked_focus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_indeterminate.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_indeterminate_disabled.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_indeterminate_focus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_unchecked.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_unchecked_disabled.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/checkbox_unchecked_focus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_checked.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_checked_disabled.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_checked_focus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_unchecked.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_unchecked_disabled.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/svg/radio_unchecked_focus.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QSSSelector.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/QSSSubControl.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/ScaleImage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/WindowMaxMin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/WindowPattern.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/WindowStyle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/gitanim.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/Cloudy_72px.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/add.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/addhover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/boy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/cartoon1.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/cartoon2.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/cartoon3.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/cartoon4.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/dog.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/dog2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/down.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/down2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/down3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/dropdown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/left.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/left2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/left3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/leftHover.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/leftPressed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/leftdown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/leftdown2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/leftdown3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/leftup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/leftup2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/leftup3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/loading.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/mask.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/mask2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/python.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/right.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/right2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/right3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/rightdown.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/rightdown2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/rightdown3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/rightup.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/rightup2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/rightup3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/screen1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/screen2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/square_add.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/up.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/up2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/images/up3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/style.qss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pyqt5-master/src/windows/屏幕快照 2018-12-09 上午10.19.22.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+    <list default="true" id="526daab5-0e9e-45a5-8f07-49f0979672df" name="Default Changelist" comment="添加老师学习代码">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/designer/VectorFlowMapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/day2/designer/VectorFlowMapping.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/day2/designer/VectorFlowMapping.ui" beforeDir="false" afterPath="$PROJECT_DIR$/day2/designer/VectorFlowMapping.ui" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/src/controls/QuitApplication.py" beforeDir="false" afterPath="$PROJECT_DIR$/pyqt5-master/src/controls/QuitApplication.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day3/demo/FirstMainWin.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/example/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/src/windows/QDarkStyleSheet-master/example/ui/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pyqt5-master/src/windows/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -480,32 +65,32 @@
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\78374\PycharmProjects\python\day2\designer" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\78374\PycharmProjects\python" />
       <recent name="C:\Users\78374\PycharmProjects\python\Day1\designer" />
       <recent name="C:\Users\78374\PycharmProjects\python\Day1\demo" />
       <recent name="C:\Users\78374\PycharmProjects\python\Day1" />
       <recent name="C:\Users\78374\PycharmProjects\python\Day2" />
-      <recent name="C:\Users\78374\PycharmProjects\test1\demo" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\78374\PycharmProjects\python\day2\designer" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.runUiPy (1)">
-    <configuration name="first (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="test1" />
+  <component name="RunManager" selected="Python.FirstMainWin">
+    <configuration name="FirstMainWin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day1/demo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Day3/demo" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day1/demo/first.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Day3/demo/FirstMainWin.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -514,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="first" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="QuitApplication" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -522,12 +107,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pyqt5-master/src/controls" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="C:\Users\78374\PycharmProjects\test1\demo\first.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pyqt5-master/src/controls/QuitApplication.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -626,11 +211,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.FirstMainWin" />
+        <item itemvalue="Python.QuitApplication" />
         <item itemvalue="Python.runUiPy (1)" />
         <item itemvalue="Python.runUiPy" />
         <item itemvalue="Python.two" />
-        <item itemvalue="Python.first (1)" />
-        <item itemvalue="Python.first (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -658,7 +243,7 @@
       <workItem from="1601964870583" duration="35000" />
       <workItem from="1601967190461" duration="847000" />
       <workItem from="1601968073454" duration="20000" />
-      <workItem from="1602073406091" duration="346000" />
+      <workItem from="1602073406091" duration="3670000" />
     </task>
     <task id="LOCAL-00001" summary="20201003 15:30">
       <created>1601710258958</created>
@@ -695,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1601814952254</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="添加老师学习代码">
+      <created>1602073786482</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602073786482</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -755,9 +347,14 @@
     <MESSAGE value="20201003 15:30" />
     <MESSAGE value="20201003 15:36" />
     <MESSAGE value="添加vfm布局" />
-    <option name="LAST_COMMIT_MESSAGE" value="添加vfm布局" />
+    <MESSAGE value="添加老师学习代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加老师学习代码" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="651" y="234" key="#Inspections" timestamp="1602075828019">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="651" y="234" key="#Inspections/0.0.2048.1112@0.0.2048.1112" timestamp="1602075828019" />
     <state x="1255" y="379" key="#Notifications" timestamp="1601797935101">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -810,22 +407,22 @@
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
     <state x="1247" y="260" key="Github.UntrackedFilesDialog/0.0.2048.1112@0.0.2048.1112" timestamp="1601797927131" />
-    <state width="585" height="302" key="GridCell.Tab.0.bottom" timestamp="1601961234725">
+    <state width="1192" height="304" key="GridCell.Tab.0.bottom" timestamp="1602077442028">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="585" height="302" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1601961234725" />
-    <state width="585" height="302" key="GridCell.Tab.0.center" timestamp="1601961234724">
+    <state width="1192" height="304" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1602077442028" />
+    <state width="1192" height="304" key="GridCell.Tab.0.center" timestamp="1602077442028">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="585" height="302" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1601961234724" />
-    <state width="585" height="302" key="GridCell.Tab.0.left" timestamp="1601961234724">
+    <state width="1192" height="304" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1602077442028" />
+    <state width="1192" height="304" key="GridCell.Tab.0.left" timestamp="1602077442027">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="585" height="302" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1601961234724" />
-    <state width="585" height="302" key="GridCell.Tab.0.right" timestamp="1601961234725">
+    <state width="1192" height="304" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1602077442027" />
+    <state width="1192" height="304" key="GridCell.Tab.0.right" timestamp="1602077442028">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
-    <state width="585" height="302" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1601961234725" />
+    <state width="1192" height="304" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1602077442028" />
     <state width="490" height="373" key="GridCell.Tab.1.bottom" timestamp="1601817255558">
       <screen x="0" y="0" width="2048" height="1112" />
     </state>
@@ -884,8 +481,10 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1601797038769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2/demo" />
     <SUITE FILE_PATH="coverage/python$two.coverage" NAME="two Coverage Results" MODIFIED="1601712857459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1/demo" />
+    <SUITE FILE_PATH="coverage/python$QuitApplication.coverage" NAME="QuitApplication Coverage Results" MODIFIED="1602076104717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pyqt5-master/src/controls" />
     <SUITE FILE_PATH="coverage/python$runUiPy__1_.coverage" NAME="runUiPy (1) Coverage Results" MODIFIED="1601959803372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day2/demo" />
     <SUITE FILE_PATH="coverage/test1$first.coverage" NAME="first Coverage Results" MODIFIED="1601710501284" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$first__1_.coverage" NAME="first (1) Coverage Results" MODIFIED="1601712171141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day1/demo" />
+    <SUITE FILE_PATH="coverage/python$FirstMainWin.coverage" NAME="FirstMainWin Coverage Results" MODIFIED="1602076134346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day3/demo" />
   </component>
 </project>
